@@ -17,4 +17,9 @@ To request new _content created by our community experts_ describe the learning 
 
 ## Have Questions or need help?
 
-Reach to us on the [BDU Discord Server](https://discord.gg/GrYc649u3k)
+Reach to us on the [BDU Discord Server](https://discord.gg/GrYc649u3k) in the skill tree channel.
+
+## Web3 Jobs Sites
+
+https://web3.career/
+
