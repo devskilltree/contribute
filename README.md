@@ -19,7 +19,13 @@ To request new _content created by our community experts_ describe the learning 
 
 Reach to us on the [BDU Discord Server](https://discord.gg/GrYc649u3k) in the skill tree channel.
 
-## Web3 Jobs Sites
+## How do I start learning?
 
-https://web3.career/
+One idea, start with selecting a job that you like from job sites like:
 
+- https://web3.career/
+- https://cryptojobslist.com/
+
+Then identify the skills that you need to build for your dream job and set your learning goal.
+
+If your learning goals are not already populated in the Dev Skill Tree, know that creating a learning path yourself is a way to learn, too. 
