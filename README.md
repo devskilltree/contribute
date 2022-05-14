@@ -25,6 +25,7 @@ One idea, start with selecting a job that you like from job sites like:
 
 - https://web3.career/
 - https://cryptojobslist.com/
+- https://www.womenwhocode.com/jobs?query=blockchain
 
 Then identify the skills that you need to build for your dream job and set your learning goal.
 
